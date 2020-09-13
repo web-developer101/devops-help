@@ -1,4 +1,5 @@
-# test-1
+# code-world
 ========
 
-this is my demo.
+ i will be coding on microsoft platforms: azure data studio, visual studio, visual studio code,
+ and one of the new editors devops 
