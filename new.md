@@ -87,7 +87,6 @@ my new tasks
 this was *made* **sept 9/13/2020**
 
 my future tasks
-
 - SQL
 - cosmo DB
 - MySQL
