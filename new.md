@@ -3,7 +3,7 @@
 - microsoft
  
  - display of html
-
+ 
 
 
 [microsoft help](https://docs.microsoft.com/en-us/azure/?product=featured "this is the document to microsoft teaches about all of azure")
@@ -63,7 +63,7 @@ crossorigin="anonymous"></script>
 </body>
 </html>
 </body>
-</html>
+</html> 
 ```
 ```javascript
 
