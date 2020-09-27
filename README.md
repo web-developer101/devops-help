@@ -1,11 +1,16 @@
 ## microsoft azure
 
 - microsoft
+ 
+ - display of html
 
-[microsoft help]()
+
+
+[microsoft help](https://docs.microsoft.com/en-us/azure/?product=featured "this is the document to microsoft teaches about all of azure")
 
 this will have `more` to your hearts content
 
+#### html website with javascript
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -89,8 +94,8 @@ my future tasks
 - ~~Github~~ it's in progress
 
 ### algorithms
-- [ ] binary tree
-- [ ] binary search
-- [ ] sorting
-- [ ] linked list
-- [ ] recursion 
+- [x] binary tree
+- [x] binary search
+- [x] sorting
+- [x] linked list
+- [x] recursion 
