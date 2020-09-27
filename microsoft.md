@@ -67,5 +67,5 @@ YouTube Channel edureka!
 <!--confluence.atlassian.com -->
 ##### [Info](https://confluence.atlassian.com/doc/getting-started-with-confluence-data-center-on-azure-937176452.html "learn little more of diagrams of SQL")
 
- 
+  
  
